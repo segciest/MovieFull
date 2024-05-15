@@ -1,0 +1,9 @@
+.heThongLichChieu {
+  @apply mt-10 py-20;
+  .ant-tabs-ink-bar {
+    background-color: violet;
+  }
+  .ant-tabs-tabpane {
+    padding-left: 0 !important;
+  }
+}

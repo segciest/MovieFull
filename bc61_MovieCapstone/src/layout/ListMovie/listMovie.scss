@@ -1,0 +1,5 @@
+.list_movie {
+  .list_movie_content {
+    @apply grid grid-cols-5 p-2 gap-5;
+  }
+}
